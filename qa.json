@@ -1,0 +1,22 @@
+[
+  {
+    "question" : "Is today October?",
+    "good" : "0"
+  },
+  {
+    "question" : "0 more than 1?",
+    "good" : "0"
+  },
+  {
+    "question" : "Rick grandpa Morty?",
+    "good" : "1"
+  },
+  {
+    "question" : "Was es6 released in 2015?",
+    "good" : "1"
+  },
+  {
+    "question" : "Node js single threaded?",
+    "good" : "1"
+  }
+]
